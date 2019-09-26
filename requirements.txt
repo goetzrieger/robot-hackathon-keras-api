@@ -1,0 +1,7 @@
+gunicorn
+Flask
+requests
+keras
+numpy
+io
+PIL
