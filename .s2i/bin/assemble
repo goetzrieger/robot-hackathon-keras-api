@@ -2,6 +2,6 @@
 
 set -eo pipefail
 
-pip install --upgrade pip 
+pip install --upgrade pip setuptools
 
 /usr/libexec/s2i/assemble
