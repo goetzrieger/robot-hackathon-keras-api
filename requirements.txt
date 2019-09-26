@@ -1,8 +1,8 @@
 gunicorn
 Flask
 requests
-keras
+keras==2.2.4
 numpy
-tensorflow
+tensorflow==1.13.1
 #io
 pillow
